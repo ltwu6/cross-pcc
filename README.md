@@ -12,7 +12,7 @@ dataset url: [3DEPN](https://drive.google.com/drive/folders/1BQg9r6RT0xZ3VZzc0Ns
 ## Get Started
 ### Training
 ```
-CUDA_VISIBLE_DEVICES=0 python train.py
+CUDA_VISIBLE_DEVICES=0 python main.py
 ```
 ## Cite this work
 ```
