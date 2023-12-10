@@ -28,10 +28,12 @@ Some codes are borrowed from [SnowflakeNet](https://github.com/AllenXiangX/Snowf
 
 ## Cite this work
 ```
-@article{wu2022leveraging,
+@article{wu2022crosspcc,
   title={Leveraging Single-View Images for Unsupervised 3D Point Cloud Completion},
   author={Wu, Lintai and Zhang, Qijian and Hou, Junhui and Xu, Yong},
-  journal={arXiv preprint arXiv:2212.00564},
-  year={2022}
+  journal={IEEE Transactions on Multimedia}, 
+  year={2023},
+  pages={1-14},
+  doi={10.1109/TMM.2023.3340892}}
 }
 ```
